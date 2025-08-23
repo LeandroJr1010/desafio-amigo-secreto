@@ -1,4 +1,5 @@
-![Imagem de capa do projeto](https://copilot.microsoft.com/th/id/BCO.597c03a1-58f1-451f-981c-f7d97674d8d4.png)
+![Imagem de capa do projeto]<img width="631" height="745" alt="image" src="https://github.com/user-attachments/assets/6afb1195-41ce-43bd-baf8-a3ee3d30438c" />
+)
 
 # 🎁 Amigo Secreto
 
@@ -47,7 +48,7 @@ O sistema permite:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
+- **JavaScript**
 
 ---
 
