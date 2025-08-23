@@ -1,4 +1,5 @@
-<img width="631" height="745" alt="image" src="https://github.com/user-attachments/assets/6afb1195-41ce-43bd-baf8-a3ee3d30438c" />
+<img width="1551" height="897" alt="image" src="https://github.com/user-attachments/assets/c176483a-159b-467c-93a9-ce1c96be68c5" />
+
 
 # 🎁 Amigo Secreto
 
