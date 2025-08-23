@@ -81,7 +81,7 @@ Feito com 💙 por [Leandro Marques](https://github.com/LeandroJr1010)
 
 ## 📬 Contato
 
-👤 Leandro Marques de França Lima
+👤 Leandro Marques de França Lima<br>
 📧 E-mail: [leandrovoupassar@gmail.com](mailto:leandrovoupassar@gmail.com)  
 🔗 GitHub: [LeandroJr1010](https://github.com/LeandroJr1010)
 
