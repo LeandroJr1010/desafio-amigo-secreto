@@ -1,4 +1,5 @@
-<img width="1551" height="897" alt="image" src="https://github.com/user-attachments/assets/c176483a-159b-467c-93a9-ce1c96be68c5" />
+![Imagem de capa do projeto](https://copilot.microsoft.com/th/id/BCO.21e25397-b71f-4904-b637-466166d99b85.png)
+
 
 
 # 🎁 Amigo Secreto
