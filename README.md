@@ -75,9 +75,7 @@ Você pode usar, copiar, modificar e distribuir este código livremente, inclusi
 
 Consulte o arquivo [`LICENSE.md`](LICENSE.md) para mais detalhes.
 
-## 👨‍💻 Desenvolvedor
-
-F## 👨‍💻 Desenvolvedor
+👨‍💻 Desenvolvedor
 
 Feito com 💙 por [Leandro Marques](https://github.com/LeandroJr1010)
 
