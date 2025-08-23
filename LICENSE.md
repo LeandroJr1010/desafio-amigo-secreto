@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 📘 Tradução explicativa (não oficial)
+
+Este software é disponibilizado gratuitamente, e qualquer pessoa pode:
+
+- Usar, copiar, modificar e distribuir o código
+- Criar versões derivadas
+- Vender ou sublicenciar o software
+
+Desde que:
+
+- O aviso de copyright seja mantido
+- Uma cópia desta licença seja incluída em qualquer redistribuição
+
+⚠️ O software é fornecido “como está”, sem garantias de qualquer tipo.  
+O autor não se responsabiliza por eventuais problemas causados pelo uso.
+
+---
+
+*Esta tradução é apenas para fins informativos. A versão oficial válida é a original em inglês.*
