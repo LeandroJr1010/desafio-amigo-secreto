@@ -47,9 +47,11 @@ O sistema permite:
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 ---
 
@@ -73,18 +75,17 @@ Você pode usar, copiar, modificar e distribuir este código livremente, inclusi
 
 Consulte o arquivo [`LICENSE.md`](LICENSE.md) para mais detalhes.
 
-
 ## 👨‍💻 Desenvolvedor
 
-Feito com 💙 por **Leandro Marques**  
-[GitHub](https://github.com/LeandroJr1010)
+F## 👨‍💻 Desenvolvedor
+
+Feito com 💙 por [Leandro Marques](https://github.com/LeandroJr1010)
 
 ## 📬 Contato
 
 👤 Leandro Marques  
 📧 E-mail: [leandrovoupassar@gmail.com](mailto:leandrovoupassar@gmail.com)  
 🔗 GitHub: [LeandroJr1010](https://github.com/LeandroJr1010)
-
 
 ## 🔗 Site publicado
 
