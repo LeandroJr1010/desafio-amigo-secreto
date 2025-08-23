@@ -1,51 +1,61 @@
-🎁 Amigo Secreto
+![Imagem de capa do projeto](https://copilot.microsoft.com/th/id/BCO.597c03a1-58f1-451f-981c-f7d97674d8d4.png)
 
-🧭 Índice
-📌 Descrição
+# 🎁 Amigo Secreto
 
-🧠 Funcionalidades
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)](https://github.com/LeandroJr1010/desafio-amigo-secreto)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey)](https://opensource.org/licenses/MIT)
+[![Tech](https://img.shields.io/badge/feito%20com-HTML%2FCSS%2FJS-blue)](#tecnologias-utilizadas)
 
-🛠️ Tecnologias utilizadas
+---
 
-🚀 Como executar o projeto
+## 🧭 Índice
 
-📸 Demonstração
+- [📌 Descrição](#descrição)
+- [🧠 Funcionalidades](#funcionalidades)
+- [🛠️ Tecnologias utilizadas](#tecnologias-utilizadas)
+- [🚀 Como executar o projeto](#como-executar-o-projeto)
+- [📸 Demonstração](#demonstração)
+- [📄 Licença](#licença)
+- [👨‍💻 Desenvolvedor](#desenvolvedor)
 
-📄 Licença
+---
 
-👨‍💻 Desenvolvedor
+## 📌 Descrição
 
-📌 Descrição
-Este projeto foi desenvolvido como parte do desafio da formação Iniciante em Programação - ONE | Alura, com o objetivo de fortalecer habilidades em lógica de programação e manipulação de elementos DOM com JavaScript.
+Este projeto foi desenvolvido como parte do desafio da formação **Iniciante em Programação - ONE | Alura**, com o objetivo de fortalecer habilidades em **lógica de programação** e manipulação de elementos DOM com **JavaScript**.
 
 O sistema permite:
+- Adicionar nomes de amigos a uma lista.
+- Exibir dinamicamente os nomes adicionados.
+- Sortear aleatoriamente um amigo da lista.
 
-Adicionar nomes de amigos a uma lista.
+🔗 Acesse o projeto online: [Clique aqui](https://leandrojr1010.github.io/desafio-amigo-secreto/)
 
-Exibir dinamicamente os nomes adicionados.
+---
 
-Sortear aleatoriamente um amigo da lista.
+## 🧠 Funcionalidades
 
-🧠 Funcionalidades
-✅ Adição de nomes à lista
+- ✅ Adição de nomes à lista
+- ✅ Exibição dinâmica dos nomes
+- ✅ Sorteio aleatório de um amigo
+- ✅ Validação de entrada (evita nomes em branco)
+- ✅ Atualização visual da lista e do resultado
 
-✅ Exibição dinâmica dos nomes
+---
 
-✅ Sorteio aleatório de um amigo
+## 🛠️ Tecnologias utilizadas
 
-✅ Validação de entrada (evita nomes em branco)
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
 
-✅ Atualização visual da lista e do resultado
+---
 
-🛠️ Tecnologias utilizadas
-HTML5
+## 🚀 Como executar o projeto
 
-CSS3 (opcional para estilização)
-
-JavaScript (ES6+)
-
-🚀 Como executar o projeto
-1. Clone o repositório: git clone https://github.com/LeandroJr1010/desafio-amigo-secreto.git
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/LeandroJr1010/desafio-amigo-secreto.git
 2. Abra o arquivo index.html em seu navegador.
 3. Digite os nomes no campo de entrada e clique em Adicionar.
 4. Após adicionar os amigos, clique em Sortear para descobrir quem foi o escolhido!
@@ -53,11 +63,26 @@ JavaScript (ES6+)
 📸 Demonstração
 <img width="1659" height="1156" alt="image" src="https://github.com/user-attachments/assets/7db32652-77ba-482f-8ff1-420dd09e6828" />
 
-📄 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+## 📄 Licença
 
-👨‍💻 Desenvolvedor
-Feito com 💙 por Leandro Marques
+Este projeto está licenciado sob os termos da **MIT License**.
+
+Você pode usar, copiar, modificar e distribuir este código livremente, inclusive para fins comerciais — desde que mantenha os créditos ao autor original.
+
+Consulte o arquivo [`LICENSE.md`](LICENSE.md) para mais detalhes.
+
+
+## 👨‍💻 Desenvolvedor
+
+Feito com 💙 por **Leandro Marques**  
+[GitHub](https://github.com/LeandroJr1010)
+
+## 📬 Contato
+
+👤 Leandro Marques  
+📧 E-mail: [leandrovoupassar@gmail.com](mailto:leandrovoupassar@gmail.com)  
+🔗 GitHub: [LeandroJr1010](https://github.com/LeandroJr1010)
+
 
 ## 🔗 Site publicado
 
